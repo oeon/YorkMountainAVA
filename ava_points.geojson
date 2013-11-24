@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "pt_id": 1,
+        "description": "beginning point at the northwest corner of the York Mountain Quadrangle map where the Dover Canyon Jeep Trail and Dover Canyon Road intersect"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.85766,
+          35.57941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pt_id": 2,
+        "description": "proceed east along Dover Canyon Road 1.5 miles to the western boundary line of Rancho Paso de Robles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.83224,
+          35.58147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pt_id": 3,
+        "description": "Follow the western boundary line of Rancho Paso de Robles southwest 6.0 miles to where the boundary joins Santa Rita Creek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.77309668064116,
+          35.522630277995106
+        ]
+      }
+    }
+  ]
+}
